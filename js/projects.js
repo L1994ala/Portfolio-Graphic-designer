@@ -56,4 +56,12 @@ const PROJECTS = [
     image: "assets/img/miniature OceanSuite.png",
     link: "https://youtu.be/cHIlJfmwlXw?si=Yd-MQCZPsXQFRP4N",
   },
+  {
+    title: "Video presentation - Ocean Suite",
+    category: "Bonus - video & motion design",
+    description: "Narrative and motion design videos produced for the brand",
+    tags: ["Video", "Motion design"],
+    image: "assets/img/miniature OceanSuite.png",
+    link: "https://youtu.be/cHIlJfmwlXw?si=Yd-MQCZPsXQFRP4N",
+  },
 ];
